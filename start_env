@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# NOTES:
+# pipenv run python <script>.py
+# pipenv install <pip-package>
+
+pipenv shell
