@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 requests = "*"
 pyqt5 = "*"
+qt-designer = "*"
+pyqt5designer = "*"
 
 [requires]
 python_version = "3.7"
